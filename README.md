@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johan</h1>
-<h3 align="center">A passionate low-level developper from France and student at <a href="https://www.epita.fr/">EPITA</a>. I did work with a lot of programming language but ended being passionate about the low-level one.</h3>
+<h3 align="center">A passionate developper from France and student at <a href="https://www.epita.fr/">EPITA</a>. I did work with a lot of programming language but ended loving the low-level one.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanbourdais1&label=Views&color=000000&style=flat-square" alt="johanbourdais1" /> </p>
 
@@ -43,3 +43,4 @@ Ivoc was one of the project I did and I enjoyed the most. It was a 5 persons gro
 GameOfTrees is a video game I made with 4 other person in Australia during my semester abroad. It is a quick VR game made to make you feel how trees are living the deforestation. It has been made on Unity using C#. It is available on my github <a href="https://github.com/JohanBourdais1/GameOfTrees">here</a>.
 
 <hr>
+
