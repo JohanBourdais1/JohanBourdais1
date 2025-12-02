@@ -31,7 +31,7 @@
 
 <hr>
 
-## 💻 My favorites projects I have done
+## 💻 My favorites projects
 
 
 <a href="https://github.com/JohanBourdais1/IVOC">IVOC</a>
