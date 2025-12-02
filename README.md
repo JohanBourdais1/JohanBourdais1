@@ -23,7 +23,6 @@
 
 ## 🛠️ Languages and Tools
 
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,c,cs,cpp,arduino,cmake,java,ts,nodejs,react,nextjs,postgres" />
   <img src="https://skillicons.dev/icons?i=html,css,js,git,latex,linux,maven,nix,py,regex,svg,unity,vim,wordpress" />
@@ -32,7 +31,6 @@
 <hr>
 
 ## 💻 My favorites projects
-
 
 <a href="https://github.com/JohanBourdais1/IVOC">IVOC</a>
 
@@ -44,3 +42,9 @@ GameOfTrees is a video game I made with 4 other person in Australia during my se
 
 <hr>
 
+## 🤍My hobbies
+
+- 🌍 I love travelling, always seeking for new adventure.
+- ⚽ Football or soccer for the certain people.
+- ⛷️ Skiing and snowboarding.
+- 🎮 Video games, especially League of Legends (In pain).
