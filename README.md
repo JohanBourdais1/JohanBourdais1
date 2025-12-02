@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanbourdais1&label=Views&color=000000&style=flat-square" alt="johanbourdais1" /> </p>
 
 - 🌱 I’m currently learning embebed software at EPITA Toulouse.
-- 💬 Ask me about **C, C++ ...or anything [here](https://github.com/{JohanBourdais1}/{JohanBourdais1}/issues)**.
+- 💬 Ask me about **C, C#, C++ ...or anything [here](https://github.com/{JohanBourdais1}/{JohanBourdais1}/issues)**.
 - ✈️I did a semester abroad at <a href="https://www.murdoch.edu.au/">Murdoch University</a> in Australia.
 - 🗣️ Completly fluent in english and french, I am seeking for job opportunities.
   
@@ -29,3 +29,14 @@
 </p>
 
 <hr>
+
+## 💻 My favorites projects I have done
+
+
+<a href="https://github.com/JohanBourdais1/IVOC">IVOC</a>
+
+Ivoc was one of the project I did and I enjoyed the most. It was a 5 persons group project with my school and we had to build a fully working web IDE for handicaped person. For that we used Java for the backend and ReactJS for the frontend. We developed a speech recognition to allow the user to create account and project and to starting coding with his voice. It is available on my github <a href="https://github.com/JohanBourdais1/IVOC">here</a>.
+
+<a href="https://github.com/JohanBourdais1/GameOfTrees">GameOfTrees</a>
+
+GameOfTrees is a video game I made with 4 other person in Australia during my semester abroad. It is a quick VR game made to make you feel how trees are living the deforestation. It has been made on Unity using C#. It is available on my github <a href="https://github.com/JohanBourdais1/GameOfTrees">here</a>.
