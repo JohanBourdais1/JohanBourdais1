@@ -10,12 +10,13 @@
   
 
 <div align="center">
-  <a href="bourdais.johan@gmail.com">
+  <a href="mailto:bourdais.johan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/johan-bourdais-39939a350/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://www.instagram.com/johan.brds/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  </a>
 </div>
 
 <hr>
@@ -41,9 +42,4 @@ Ivoc was one of the project I did and I enjoyed the most. It was a 5 persons gro
 
 GameOfTrees is a video game I made with 4 other person in Australia during my semester abroad. It is a quick VR game made to make you feel how trees are living the deforestation. It has been made on Unity using C#. It is available on my github <a href="https://github.com/JohanBourdais1/GameOfTrees">here</a>.
 
-## ⚡️ Stats
-
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanBourdais1)](https://github.com/JohanBourdais1/github-readme-stats)
 <hr>
