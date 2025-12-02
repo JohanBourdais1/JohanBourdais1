@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning embebed software at EPITA Toulouse.
 - 💬 Ask me about **C, C#, C++ ...or anything [here](https://github.com/{JohanBourdais1}/{JohanBourdais1}/issues)**.
 - ✈️I did a semester abroad at <a href="https://www.murdoch.edu.au/">Murdoch University</a> in Australia.
-- 🗣️ Completly fluent in english and french, I am seeking for job opportunities.
+- 🗣️ Completly fluent in english and french, I am seeking for future job opportunities.
   
 
 <div align="center">
@@ -40,3 +40,10 @@ Ivoc was one of the project I did and I enjoyed the most. It was a 5 persons gro
 <a href="https://github.com/JohanBourdais1/GameOfTrees">GameOfTrees</a>
 
 GameOfTrees is a video game I made with 4 other person in Australia during my semester abroad. It is a quick VR game made to make you feel how trees are living the deforestation. It has been made on Unity using C#. It is available on my github <a href="https://github.com/JohanBourdais1/GameOfTrees">here</a>.
+
+## ⚡️ Stats
+
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanBourdais1)](https://github.com/JohanBourdais1/github-readme-stats)
+<hr>
