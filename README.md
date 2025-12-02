@@ -44,7 +44,7 @@ GameOfTrees is a video game I made with four other people in Australia during my
 
 ## 🤍My hobbies
 
-- 🌍 I love travelling, always seeking for new adventure.
+- 🌍 I love travelling, and always seeking for new adventure.
 - ⚽ Football or soccer for the certain people.
 - ⛷️ Skiing and snowboarding.
 - 🎮 Video games, especially League of Legends (In pain).
