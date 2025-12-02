@@ -5,10 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanbourdais1&label=Views&color=000000&style=flat-square" alt="johanbourdais1" /> </p>
 
 - 🌱 I’m currently learning embebed software at EPITA Toulouse.
-- 💬 Ask me anything **[here](https://github.com/JohanBourdais1/JohanBourdais1/issues)**.
 - ✈️I did a semester abroad at **<a href="https://www.murdoch.edu.au/">Murdoch University</a>** in Australia.
 - 🗣️ Completly fluent in english and french, I am seeking for future job opportunities.
-  
+- 💬 Ask me anything **[here](https://github.com/JohanBourdais1/JohanBourdais1/issues)**.
 
 <div align="center">
   <a href="mailto:bourdais.johan@gmail.com">
