@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Johan</h1>
 <h3 align="center">A passionate developper from France and student at <a href="https://www.epita.fr/">EPITA</a>. I did work with a lot of programming language but ended loving the low-level one.</h3>
 
+<img alt="Cat Gif" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" align="right" width=400 />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanbourdais1&label=Views&color=000000&style=flat-square" alt="johanbourdais1" /> </p>
 
 - 🌱 I’m currently learning embebed software at EPITA Toulouse.
-- 💬 Ask me about **C, C#, C++ ...or anything [here](https://github.com/{JohanBourdais1}/{JohanBourdais1}/issues)**.
+- 💬 Ask me anything [here](https://github.com/JohanBourdais1/JohanBourdais1/issues)**.
 - ✈️I did a semester abroad at <a href="https://www.murdoch.edu.au/">Murdoch University</a> in Australia.
 - 🗣️ Completly fluent in english and french, I am seeking for future job opportunities.
   
